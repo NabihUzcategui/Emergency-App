@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![emergency-app](https://user-images.githubusercontent.com/99839506/225502692-bb24e08e-36e6-4857-bb7f-a8ce511a2907.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
